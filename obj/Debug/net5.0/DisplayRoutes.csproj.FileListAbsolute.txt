@@ -1,0 +1,16 @@
+/Users/brobinson/Downloads/working-arrays-collections-c-sharp/Code/m02-arrays/Before/DisplayRoutes/bin/Debug/net5.0/DisplayRoutes.deps.json
+/Users/brobinson/Downloads/working-arrays-collections-c-sharp/Code/m02-arrays/Before/DisplayRoutes/bin/Debug/net5.0/DisplayRoutes.runtimeconfig.json
+/Users/brobinson/Downloads/working-arrays-collections-c-sharp/Code/m02-arrays/Before/DisplayRoutes/bin/Debug/net5.0/DisplayRoutes.runtimeconfig.dev.json
+/Users/brobinson/Downloads/working-arrays-collections-c-sharp/Code/m02-arrays/Before/DisplayRoutes/bin/Debug/net5.0/DisplayRoutes.dll
+/Users/brobinson/Downloads/working-arrays-collections-c-sharp/Code/m02-arrays/Before/DisplayRoutes/bin/Debug/net5.0/ref/DisplayRoutes.dll
+/Users/brobinson/Downloads/working-arrays-collections-c-sharp/Code/m02-arrays/Before/DisplayRoutes/bin/Debug/net5.0/DisplayRoutes.pdb
+/Users/brobinson/Downloads/working-arrays-collections-c-sharp/Code/m02-arrays/Before/DisplayRoutes/obj/Debug/net5.0/DisplayRoutes.csproj.AssemblyReference.cache
+/Users/brobinson/Downloads/working-arrays-collections-c-sharp/Code/m02-arrays/Before/DisplayRoutes/obj/Debug/net5.0/DisplayRoutes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brobinson/Downloads/working-arrays-collections-c-sharp/Code/m02-arrays/Before/DisplayRoutes/obj/Debug/net5.0/DisplayRoutes.AssemblyInfoInputs.cache
+/Users/brobinson/Downloads/working-arrays-collections-c-sharp/Code/m02-arrays/Before/DisplayRoutes/obj/Debug/net5.0/DisplayRoutes.AssemblyInfo.cs
+/Users/brobinson/Downloads/working-arrays-collections-c-sharp/Code/m02-arrays/Before/DisplayRoutes/obj/Debug/net5.0/DisplayRoutes.csproj.CoreCompileInputs.cache
+/Users/brobinson/Downloads/working-arrays-collections-c-sharp/Code/m02-arrays/Before/DisplayRoutes/obj/Debug/net5.0/DisplayRoutes.dll
+/Users/brobinson/Downloads/working-arrays-collections-c-sharp/Code/m02-arrays/Before/DisplayRoutes/obj/Debug/net5.0/ref/DisplayRoutes.dll
+/Users/brobinson/Downloads/working-arrays-collections-c-sharp/Code/m02-arrays/Before/DisplayRoutes/obj/Debug/net5.0/DisplayRoutes.pdb
+/Users/brobinson/Downloads/working-arrays-collections-c-sharp/Code/m02-arrays/Before/DisplayRoutes/obj/Debug/net5.0/DisplayRoutes.genruntimeconfig.cache
+/Users/brobinson/Downloads/working-arrays-collections-c-sharp/Code/m02-arrays/Before/DisplayRoutes/bin/Debug/net5.0/DisplayRoutes
